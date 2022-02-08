@@ -9,4 +9,4 @@
 3. Place all the files to htdocs folder in Xampp.
 4. Open Xampp and start PHP and Apache Server.
 5. Open localhost in browser.
-6. Default admin and password in 'root'
+6. Default admin and password is 'root'
